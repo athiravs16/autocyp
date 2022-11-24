@@ -1,0 +1,22 @@
+{
+  "name": "cyp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athiravs16/autocyp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athiravs16/autocyp/issues"
+  },
+  "homepage": "https://github.com/athiravs16/autocyp#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
